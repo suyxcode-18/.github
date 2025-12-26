@@ -19,7 +19,6 @@ Welcome to **suyxcode-18** — an open community for developers to build, learn,
 - Python & Backend (Flask, Django, Node.js)
 - Data Science & Machine Learning
 - Artificial Intelligence & GenAI
-- IoT & Blockchain-based systems
 
 ---
 
