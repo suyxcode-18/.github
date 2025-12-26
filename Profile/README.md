@@ -40,7 +40,7 @@ Please follow clean coding practices and add documentation where needed.
 
 Maintained by **Suyash Singh , Ankit Verma , Anuj Yadav , Suraj Singh**
 
-- GitHub: https://github.com/suyxcode-18
+- GitHub: https://github.com/suyXcode
 - Community: Open for learners & builders
 
 ---
