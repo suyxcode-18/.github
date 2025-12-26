@@ -1,6 +1,6 @@
-# 🚀 SuyXcode Organization
+# 🚀 suyxcode-18 Organization
 
-Welcome to **SuyXcode** — an open community for developers to build, learn, and share high-quality projects in Web Development, AI/ML, Data Science, and more.
+Welcome to **suyxcode-18** — an open community for developers to build, learn, and share high-quality projects in Web Development, AI/ML, Data Science, and more.
 
 ---
 
@@ -38,7 +38,7 @@ Please follow clean coding practices and add documentation where needed.
 
 ## 📫 Contact
 
-Maintained by **Suyash Singh**
+Maintained by **Suyash Singh , Ankit Verma , Anuj Yadav , Suraj Singh**
 
 - GitHub: https://github.com/suyxcode-18
 - Community: Open for learners & builders
